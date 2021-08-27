@@ -3,7 +3,7 @@
 ## ATHOR
 Simon Mungai Njoroge.
 
-####BRIEF DESCRIPTION
+#### BRIEF DESCRIPTION
 This is a terminal program that help's people to encode and decode messages using the
 ceaser-cipher method.
 
