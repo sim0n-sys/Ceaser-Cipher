@@ -7,7 +7,8 @@ Simon Mungai Njoroge.
 This is a terminal program that help's people to encode and decode messages using the
 ceaser-cipher method.
 
-# Setup/Installation Requirement
+# 
+Setup/Installation Requirement
 * Clone the repository.
 * paste it on the browser.
 
